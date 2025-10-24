@@ -1,0 +1,27 @@
+
+[
+    {
+        "name": "Municipal Market Foodcourt",
+        "description": "Located within the town’s main public market area (Poblacion, Tankulan, Manolo Fortich, Bukidnon), the food-court hosts a variety of stalls serving local favorites — grilled meats, fresh tropical fruits, kakanin (rice cakes), and simple hot meals. It’s an ideal stop for everyday eats, quick bites between errands, or sampling authentic local flavors in a laid-back setting.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG1yGM9Jyt_SlQKOI8Vn11WhYHmat7nReE9Q&s",
+        "lat": 8.366002, 
+        "lng": 124.865214
+    },
+    {
+        "name": "7‑Eleven",
+        "description": "This is a branch of the well-known 24-hour convenience store chain 7‑Eleven located on Sayre Highway in the municipality of Manolo Fortich, Bukidnon.It offers a wide range of snacks, ready-to-eat meals, beverages (hot and cold), and other daily essentials—ideal for quick stops while travelling or for late-night errands.",
+        "img": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSw--KrS-zgw31dhh6Xhq_DWGu-015YOVU-Jv2UvlC-U59ho4WBumQTrmsx5Z8R6n6j0F-2DBwg7Z_GD7YWKmB9TJZlVzTRTS7xvqVL05V1aQ_7ahm7DH46L1xlEoG8-yCG4z3sksA=s1360-w1360-h1020-rw",
+        "lat": 8.367498,   
+        "lng": 124.865115
+    },
+    {
+        "name":"Jollibee",
+        "description":"A branch of the popular Filipino fast-food chain Jollibee in the municipality of Manolo Fortich, Bukidnon. Located along Sayre Highway near the traffic-light crossing and the municipal centre. It’s a convenient spot for families, travellers and locals looking for a quick and comfortable meal stop while passing through or gathering.",
+        "img":"https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyoA21IpVpceBtXsILdDkX2bSUn1NYv8sMAsWQ4IXB8kW9Nsu3JEVMIQ6adiXyV27ppV9B0Xz2zWTMB0trlBxyzm-n1xEsaugLYIq90p_ZfdP15JZ-8-6vy6zJtEIdaMQ3dg_bL=w390-h262-n-k-no",
+        "lat": 8.367363, 
+        "lng": 124.865303
+    }
+]
+
+
+
